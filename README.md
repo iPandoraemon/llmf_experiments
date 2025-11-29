@@ -15,6 +15,7 @@
 | 实验编号 | 实验名称 | 文件夹 | 状态 |
 |---------|---------|--------|------|
 | 实验1 | 本地部署与API调用 | [exp_private_deploy](./exp_private_deploy/) | ✅ |
+| 实验2 | 大模型的文本情感分类 | [exp_prompt_emotion_cls](./exp_prompt_emotion_cls/) | ✅ |
 
 ## 使用说明
 
